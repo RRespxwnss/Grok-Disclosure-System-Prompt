@@ -1,4 +1,4 @@
-# Gk-vulnerability
+# Grok Disclosure System Prompt
 
 <img width="1106" height="1028" alt="Captura de tela 2026-10-02 120351" src="https://github.com/user-attachments/assets/b190029b-625d-4663-b2f1-a8626742acba" />
 <img width="1919" height="1125" alt="Captura de tela 2026-09-14 232228" src="https://github.com/user-attachments/assets/7acec3eb-4f85-43a5-94ee-41e2886569d7" />
